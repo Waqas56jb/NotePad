@@ -6,6 +6,8 @@ Certainly! Here's a README description for your NotePad project:
 The Advance NotePad is a console-based text editor developed in C++. It includes various features such as text manipulation, suggestions using an included dictionary, deleting, searching, copying, pasting, finding and replacing, undo functionality, saving text to a file, checking text similarity, and displaying the total word count.
 
 ## Features
+![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/715a1e01-1854-41d4-9fac-b3d6cfaee08f)
+
 
 1. **Adding Text**
    - Users can input text, and the program supports the addition of words with suggestions using an included dictionary.
@@ -43,9 +45,12 @@ The Advance NotePad is a console-based text editor developed in C++. It includes
 
 2. **Deletion**
    - Use Ctrl + D to initiate the deletion process and enter the string you want to delete.
+   - ![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/8507a2c6-a14c-44d0-8245-b8f4d4910808)
+
 
 3. **Searching**
    - Use Ctrl + S to initiate the search process and enter the word you want to search.
+![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/b75338cc-b24e-4db9-b0c9-2724849bd46d)
 
 4. **Copying and Pasting**
    - Use Ctrl + C to copy text and Ctrl + P to paste it at a specified position.
@@ -70,3 +75,10 @@ The Advance NotePad is a console-based text editor developed in C++. It includes
 2. Follow the on-screen instructions to use the different features.
 
 Feel free to contribute, report issues, or suggest improvements!
+![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/715a1e01-1854-41d4-9fac-b3d6cfaee08f)
+![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/a53d79a7-7a8e-4d1d-a9db-74f364e43717)
+ ![Uploading image.png…]()
+
+
+
+

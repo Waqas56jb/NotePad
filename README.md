@@ -77,6 +77,8 @@ The Advance NotePad is a console-based text editor developed in C++. It includes
 Feel free to contribute, report issues, or suggest improvements!
 ![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/715a1e01-1854-41d4-9fac-b3d6cfaee08f)
 ![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/a53d79a7-7a8e-4d1d-a9db-74f364e43717)
+![image](https://github.com/Waqas56jb/NotePad-in-C-language/assets/156122615/a904f9a6-82ae-4fae-85ac-5ac4015e2c1f)
+
  ![Uploading image.png…]()
 
 
